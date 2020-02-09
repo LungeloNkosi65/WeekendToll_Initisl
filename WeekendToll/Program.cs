@@ -13,6 +13,7 @@ namespace WeekendToll
             var tollGate = new TollGate("B",100);
             tollGate.Display();
             Console.ReadKey();
+            
         }
     }
 }
